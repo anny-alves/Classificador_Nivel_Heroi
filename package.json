@@ -1,0 +1,23 @@
+{
+  "name": "classificador_nivel_heroi",
+  "version": "1.0.0",
+  "description": "Desafio do Potência Tech iFood da Dio para concstruir em JavaScript um Classificador de Nível de Herói.",
+  "main": "classificador_nivel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anny-alves/Classificador_Nivel_Heroi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anny-alves/Classificador_Nivel_Heroi/issues"
+  },
+  "homepage": "https://github.com/anny-alves/Classificador_Nivel_Heroi#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
